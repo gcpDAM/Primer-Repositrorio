@@ -62,7 +62,7 @@ namespace Alumnos
             media = notaClase / numAlumnos;
             media = Math.Round(media, 2);
 
-            Console.WriteLine("La nota media de la clase para la asignatura " + asignatura + " es " + media);
+            Console.WriteLine("La nota media de la clase para la asignatura programacion es: " + asignatura + " es " + media);
 
             
         }
